@@ -1,0 +1,7 @@
+.body__container {
+   font-family: 'Roboto', sans-serif;
+   /* 혹시라도 모를 상황에 대비해 16px로 명시적으로 지정을 해줌 */
+   font-size: 16px;
+   font-weight: 400px;
+   color: #333;
+}
